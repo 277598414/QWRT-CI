@@ -4,29 +4,21 @@
 
 https://github.com/immortalwrt/immortalwrt.git
 
-自用版：
+高通版：
 
 https://github.com/VIKINGYFY/immortalwrt.git
 
 # U-BOOT
 
-高通版-沉心：
+高通版：
 
-https://github.com/chenxin527/uboot-ipq60xx-emmc-build.git
+https://github.com/chenxin527/uboot-ipq60xx-emmc-build
 
-https://github.com/chenxin527/uboot-ipq60xx-nand-build.git
+https://github.com/chenxin527/uboot-ipq60xx-nand-build
 
-https://github.com/chenxin527/uboot-ipq60xx-nor-build.git
+https://github.com/chenxin527/uboot-ipq60xx-nor-build
 
-高通版-小猪：
-
-https://github.com/1980490718/u-boot-2016.git
-
-联发科-全新版：
-
-https://github.com/VIKINGYFY/UBOOT-CI/releases
-
-联发科-官方版：
+联发科版：
 
 https://drive.wrt.moe/uboot/mediatek
 
