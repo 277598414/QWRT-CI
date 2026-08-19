@@ -36,8 +36,8 @@ jobs:
       #max-parallel: 3
       matrix:
         CONFIG: [X86]
-        SOURCE: [277598414/QSDK]
-        BRANCH: [main]
+        SOURCE: [coolsnowwolf/lede]
+        BRANCH: [master]
 
     #调用公用编译核心WRT-CORE.yml
     uses: ./.github/workflows/WRT-CORE.yml
@@ -47,9 +47,9 @@ jobs:
       #默认主题
       WRT_THEME: bootstrap
       #默认主机名
-      WRT_NAME: QSDK
+      WRT_NAME: LEDE
       #默认WIFI名称
-      WRT_SSID: QSDK
+      WRT_SSID: LEDE
       #默认WIFI密码
       WRT_WORD: 12345678
       #默认地址
