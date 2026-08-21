@@ -22,8 +22,8 @@ CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_jdcloud_re-ss-01=y
 #CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_zn_m2=y
 CONFIG_TARGET_DEVICE_qualcommax_ipq60xx_DEVICE_jdc_ax1800-pro=y
 
-# CONFIG_PACKAGE_kmod‑ppp is not set
-# CONFIG_PACKAGE_kmod‑mppe is not set
-# CONFIG_PACKAGE_kmod‑pppoe is not set
-# CONFIG_PACKAGE_kmod‑pppox is not set
-# CONFIG_PACKAGE_kmod‑pptp is not set
+CONFIG_PACKAGE_kmod‑ppp=n
+CONFIG_PACKAGE_kmod‑mppe=n
+CONFIG_PACKAGE_kmod‑pppoe=n
+CONFIG_PACKAGE_kmod‑pppox=n
+CONFIG_PACKAGE_kmod‑pptp=n
